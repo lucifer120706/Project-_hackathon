@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas==2.2.2
+rapidfuzz==3.9.6
+scikit-learn==1.5.1
+python-multipart==0.0.9
